@@ -1,6 +1,6 @@
 # 来源清单
 
-> 本手册 514 条内容搜集于 2026 年 10 月 7 日，来自以下公开来源。
+> 本手册 517 条内容搜集于 2026 年 10 月 7 日，来自以下公开来源。
 > 条目为编辑后的中文转述；标注"自述"的为原作者单方面说法，未经独立验证。
 
 ## 聚合与社区
@@ -9,6 +9,7 @@
 - https://www.v2ex.com/t/1244969 — V2EX 讨论"大家 muse 都是怎么使用的"
 - https://github.com/Anil-matcha/awesome-meta-muse-agent — awesome 清单
 - https://github.com/agathathemuse/muse-skills — Skills 仓库
+- https://sozai.app/transcript/meta-muse-use-cases-implemented/ — SozAI 转录（26 个用例）
 
 ## 英文博客与媒体
 
@@ -40,6 +41,8 @@
 - https://blog.zonaforte.com/en/12817/organiza-tu-rutina-con-ia-asistente-personal-meta-muse/
 - https://blog.zonaforte.com/en/12801/meta-muse-asistente-virtual-inteligente-para-gestionar-tus-tareas-diarias/
 - https://omidsaffari.com/blog/how-to-use-muse-for-small-business-2026-launch
+- https://agentusecases.ai/agents/meta-muse — 用例聚合（50 条，2026-10-15 更新）
+- https://www.jaykranda.com/blog/2026/10/11/20-things-my-ai-agents-do-so-i-dont-have-to — Jay Kranda 20 个 agent 实战
 
 ## 中文博客与媒体
 
@@ -53,6 +56,7 @@
 - https://unwire.hk/2026/10/02/meta-muse/ai/ — unwire.hk 教学
 - https://unwire.hk/2026/09/29/muse-ai-instruction/ai/ — unwire.hk
 - https://grenade.tw/blog/muse-meta-ai-agent/
+- https://www.woshipm.com/evaluating/6469834.html — 人人都是产品经理实测
 
 ## 视频
 
@@ -63,6 +67,7 @@
 - https://www.youtube.com/watch?v=puGo_SI6Xro
 - https://www.youtube.com/watch?v=QweKTjwMgC8
 - https://www.youtube.com/watch?v=-zTQ4nfY0-k
+- https://www.youtube.com/watch?v=ARMaDt5JBUg — 于為暢 10 个用法
 
 ## 官方文档
 
