@@ -1,6 +1,6 @@
 # 来源清单
 
-> 本手册 517 条内容搜集于 2026 年 10 月 7 日，来自以下公开来源。
+> 本手册 527 条内容搜集于 2026 年 10 月 7 日，来自以下公开来源。
 > 条目为编辑后的中文转述；标注"自述"的为原作者单方面说法，未经独立验证。
 
 ## 聚合与社区
@@ -41,8 +41,10 @@
 - https://blog.zonaforte.com/en/12817/organiza-tu-rutina-con-ia-asistente-personal-meta-muse/
 - https://blog.zonaforte.com/en/12801/meta-muse-asistente-virtual-inteligente-para-gestionar-tus-tareas-diarias/
 - https://omidsaffari.com/blog/how-to-use-muse-for-small-business-2026-launch
-- https://agentusecases.ai/agents/meta-muse — 用例聚合（50 条，2026-10-15 更新）
+- https://agentusecases.ai/agents/meta-muse — 用例聚合（56 条，2026-10-24 更新）
 - https://www.jaykranda.com/blog/2026/10/11/20-things-my-ai-agents-do-so-i-dont-have-to — Jay Kranda 20 个 agent 实战
+- https://www.socialmediatoday.com/news/meta-outlines-muse-ai-use-cases-for-businesses/833308/ — Meta 小商家用法（2026-10-18）
+- https://strangenew.world/labs/muse-pro-tips/ — Muse Pro Tips
 
 ## 中文博客与媒体
 
@@ -57,6 +59,7 @@
 - https://unwire.hk/2026/09/29/muse-ai-instruction/ai/ — unwire.hk
 - https://grenade.tw/blog/muse-meta-ai-agent/
 - https://www.woshipm.com/evaluating/6469834.html — 人人都是产品经理实测
+- https://www.marketersgo.com/uncategorized/202610/meta「muse」實測全攻略：從跨區申請到三種玩法，一次/ — Meta「Muse」实测全攻略
 
 ## 视频
 
@@ -68,6 +71,7 @@
 - https://www.youtube.com/watch?v=QweKTjwMgC8
 - https://www.youtube.com/watch?v=-zTQ4nfY0-k
 - https://www.youtube.com/watch?v=ARMaDt5JBUg — 于為暢 10 个用法
+- https://www.youtube.com/watch?v=44GY1g6_6dc — What Meta Muse Knows About You（隐私实测）
 
 ## 官方文档
 
