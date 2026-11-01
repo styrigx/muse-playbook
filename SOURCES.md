@@ -77,3 +77,10 @@
 
 - https://www.meta.com/help/artificial-intelligence/2074655449783957/ — artifacts 帮助
 - https://www.meta.com/help/artificial-intelligence/995796179982326/ — 个性化与记忆帮助
+- https://www.aiagentslibrary.com/blog/meta-muse-use-cases/ — Meta Muse 小商家 25 用法（2026-10-31 更新）
+- https://ainovatools.com/guides/meta-muse-tips — Meta Muse 16 个技巧（价格追踪、收藏 reels、Feed、语音备忘录）
+- https://note.com/sane_quail3282/n/n4e2c40acb258 — 日本博主 2 日实测（日历迁移、会员清单、先回来的联系）
+- https://note.com/ai_creative_note/n/nb3ee094b6a13 — Meta Muse 图像视频生成 5 个窍门
+- https://learnaiwithmariah.com/guides/meta-muse-6-things-to-try/ — 6 个上手用法（Ideas 提问、Spotify 播客）
+- https://openaimaster.com/muse-ai-voice-mode-tips-2026/ — 语音模式 7 个技巧
+- https://medium.com/@kanisshka12/metas-muse-can-do-your-errands-7-everyday-uses-and-3-things-to-watch-out-for-1486c76b26a5 — 7 个日常用法
