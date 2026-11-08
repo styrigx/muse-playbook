@@ -1,6 +1,6 @@
 # 来源清单
 
-> 本手册 553 条内容搜集于 2026 年 10 月 7 日，来自以下公开来源。
+> 本手册 583 条内容搜集于 2026 年 10 月 7 日，来自以下公开来源。
 > 条目为编辑后的中文转述；标注"自述"的为原作者单方面说法，未经独立验证。
 
 ## 聚合与社区
@@ -84,3 +84,8 @@
 - https://learnaiwithmariah.com/guides/meta-muse-6-things-to-try/ — 6 个上手用法（Ideas 提问、Spotify 播客）
 - https://openaimaster.com/muse-ai-voice-mode-tips-2026/ — 语音模式 7 个技巧
 - https://medium.com/@kanisshka12/metas-muse-can-do-your-errands-7-everyday-uses-and-3-things-to-watch-out-for-1486c76b26a5 — 7 个日常用法
+- https://appvolt.ai/news/meta-muse-spaces-build-custom-space-from-an-idea — Meta Muse Spaces 官宣（2026-11-06）
+- https://bluesnyaiper.com/meta-muse-tips/ — Mac 版 13 个小技巧实测（2026-11-05~07）
+- https://note.com/kanotoshi/n/ncaecc19a1181 — 日本博主免费版 3 个活用法（2026-11-05）
+- https://note.com/kankiti3/n/n167a3ce01cbf — 3 个委托示例（2026-11-02）
+- https://toriaezu-ai.com/articles/016-muse-urawaza — Muse 本人回答的 30 个裏技（2026-11-01，11-04 更新）
