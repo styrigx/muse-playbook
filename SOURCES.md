@@ -1,6 +1,6 @@
 # 来源清单
 
-> 本手册 583 条内容搜集于 2026 年 10 月 7 日，来自以下公开来源。
+> 本手册 607 条内容搜集于 2026 年 10 月 7 日，来自以下公开来源。
 > 条目为编辑后的中文转述；标注"自述"的为原作者单方面说法，未经独立验证。
 
 ## 聚合与社区
@@ -88,4 +88,11 @@
 - https://bluesnyaiper.com/meta-muse-tips/ — Mac 版 13 个小技巧实测（2026-11-05~07）
 - https://note.com/kanotoshi/n/ncaecc19a1181 — 日本博主免费版 3 个活用法（2026-11-05）
 - https://note.com/kankiti3/n/n167a3ce01cbf — 3 个委托示例（2026-11-02）
-- https://toriaezu-ai.com/articles/016-muse-urawaza — Muse 本人回答的 30 个裏技（2026-11-01，11-04 更新）
+- https://toriaezu-ai.com/articles/016-muse-urawaza — Muse 本人回答的 30 个裏技（2026-11-01，11-12 更新）
+- https://top5apps.ai/news/how-to-turn-on-muse-voice-mode-meta-muse-realtime-voice-avatar-iphone-android-web-mac/ — 语音模式开通全步骤（2026-11-06）
+- https://aihomebuilding.com/stories/muse-on-glasses-beta-2026 — 眼镜上切 Muse beta 实测（2026-11-09）
+- https://imafumu.com/muse-hidden-features/ — token 上限重置时间与买断 token（2026-11-09）
+- https://imafumu.com/muse-hidden-features-2/ — 隐藏功能续篇：旁聊并行、打断、归档（2026-11-12）
+- https://techbrief.co.kr/meta-muse-ai/ — 韩文：特价论坛盯帖、网球场空位、退货、WhatsApp 通知（2026-11-11）
+- https://explorineer.com/en/trends/let-muse-handle-the-tedious-coding-agent-work--174694 — 编码 agent 分流实测（2026-11-10）
+- https://1top.tw/muse/ — 台湾新手教学、一句话换头像（2026-11-09）
