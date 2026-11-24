@@ -96,3 +96,55 @@
 - https://techbrief.co.kr/meta-muse-ai/ — 韩文：特价论坛盯帖、网球场空位、退货、WhatsApp 通知（2026-11-11）
 - https://explorineer.com/en/trends/let-muse-handle-the-tedious-coding-agent-work--174694 — 编码 agent 分流实测（2026-11-10）
 - https://1top.tw/muse/ — 台湾新手教学、一句话换头像（2026-11-09）
+
+## 2026-11-24 重写新增来源
+
+### 官方与主流媒体
+
+- https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/ — Meta 官宣 Spaces（2026-11-06）
+- https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/ — Meta 官宣实时语音与声音（2026-11-05）
+- https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/ — Muse 电话功能：付费、美国商家（2026-11-12）
+- https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/ — Apple Watch / Wear OS 伴侣 App（2026-11-10）
+- https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/ — Spaces 介绍（2026-11-06）
+- https://builtwithmuse.com/blog/muse-mail — Muse Mail 向所有支持地区免费开放（2026-11-20）
+- https://builtwithmuse.com/blog/muse-ember — Muse Ember 开发者模型（2026-11-09）
+- https://musecode.agentmaps.org/news/muse-ember-launch/ — Muse Ember 发布（2026-11-09）
+- https://www.allthingsmuse.com/articles/how-to-set-up-your-muse-email/ — Muse Mail 开通步骤（2026-11-11）
+- https://agentmsgr.com/blog/muse-mail/ — Muse Mail 说明（更新 2026-11-22）
+
+### 社区实测与博客（标注"网友实测"的条目来源）
+
+- https://www.jameslayne.net/blog/level-up-your-meta-muse-top-5-new-features-0tjou28ixxa/ — 5 个新功能实测（2026-11-16）
+- https://madebyteh.com/en/notes/muse-spaces-workflow/ — Spaces 3 个工作台（2026-11-12）
+- https://www.useofmuse.com/guides/what-can-meta-muse-do/ — 50 个真实用例汇总（2026-11-04）
+- https://medium.com/@keptrow/running-a-one-person-content-studio-with-an-ai-agent-my-month-with-muse-plus-a-working-invite-b3ce98365efb — 一个人内容工作室一个月实测（2026-11-19，作者 keptrow）
+- https://shipwithmuse.live/blog/muse-use-cases — 60+ 用例聚合（目录统计截至 2026-09-28）
+- https://crosswalk.to/agents/muse/tips — 进阶技巧：额度、密钥、技能、多 agent（2026-11-04）
+- https://www.vidau.ai/meta-muse-new-features/ — 新功能转述（2026-11-16）
+- https://openaimaster.com/muse-ai-tips-for-students/ — 学生用法（2026-10-31 前后）
+- https://openaimaster.com/muse-ai-tips-content-creators-2026/ — 创作者用法（2026-11-19）
+- https://www.aaas.market/blog/linkedin-maxxing-with-muse — LinkedIn 玩法（2026-11-01）
+- https://omermuneer.com/tutorials/muse-learning-and-study/ — 学习方法在 Muse 上的应用（无发表日）
+- https://note.com/aiju911/n/n871159e94664 — YURI《Muse Spaces》7 日用法（2026-11-11）
+- https://note.com/azumimusuhi/n/n3cf46c90c660 — 伊藤貴將 Active Memory + Spaces 实测（2026-11-08）
+- https://agihunt.info/en/p/1a1fbc95ad9172a3371661727ed — 转述 r/AI_Agents 用例（2026-11-21 前后）
+- https://www.unlockourpotential.org/how-people-actually-use-muse — 用户实测合集（2026-11-16）
+- https://www.youtube.com/watch?v=NtBBbqimr5E — 20 个提示词实测（网友实测）
+
+## 写法借鉴（2026-11-24 对照了 8 个同类仓库，只借鉴写法与结构，不抄条目内容）
+
+- https://github.com/zhounuo528/muse-agent-playbook — 场景卡片骨架（先看效果 / 怎么搭 / 关键纪律 / 可以直接说的话 / 验收），本手册的 怎么做 / 例子 / 注意 与之对应
+- https://github.com/jaxxchen003/muse-use-cases — 每条 做法 / 结果 / 可复制性 / 风险提示、分类计数、最后更新日期、收录标准与验证标记
+- https://github.com/wz5200/muse-tips — 按场景找入口的新手路径、条目互引、"可能不适用"的诚实提醒
+- https://github.com/nerd27dk/muse-use-cases — "带可复制提示词"覆盖率作为质量指标
+- https://github.com/Anil-matcha/awesome-muse-connectors — 模板契约（目标 / 输入 / 输出 / 审批边界 / 停止条件）
+- https://github.com/aicodedecode/awesome-muse-skills — 分类计数表、原创与转载分开标注
+- https://github.com/cszach/awesome-muse — 带日期的状态说明、官方与社区来源区分、链接检查
+- https://github.com/ezcat207/awesome-meta-muse — 反面教材：未验证的一句话清单不收；其"已知局限"说明方式值得学
+
+## 已核查并丢弃（不收录）
+
+- promptzone 称"Muse Spark 1.3 是快速免费图像生成模型"——张冠李戴，与 Meta 官方的 Spark 1.3（coding agent，2026-09-02）冲突
+- 邀请码"最多可兑 30 个码"——与"一账号终身只能兑一个"的说法直接冲突，均无官方佐证，整条不收
+- crosswalk FAQ "Muse 只在美国"——已过期（日本 2026-10-23、新加坡 10-27、墨西哥 11-05、澳大利亚 11-17 已上线）
+- note.com "ぶひ丸"——搜不到该作者与文章，归属丢弃，改引 YURI 与伊藤貴將
